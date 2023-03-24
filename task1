@@ -1,0 +1,22 @@
+Task-1 Change/ update / create a new branch from cli
+
+Task-2 Do 3 changes in the same file and revert back it to the 2nd change
+
+hello rishi
+
+
+
+
+
+Task1:
+use command of clone and then create a new branch and push it to the same repo
+REPO NAME -> TASK_1
+Task:2
+
+use git getch and create a new branch then - push the code
+REPO NAME -> TASK_2
+task2:
+create a new PR{pull request} - and merge it to the main branch
+REPO NAME -> TASK_3
+
+ddndlandka
